@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!--  database type  -->
+<environment type="MSSQLSERVER">
+  <field>USD</field>
+  <field>CAD</field>
+  <field>date</field>
+</environment>
+
+<environment type="MYSQL">
+  <field>USD</field>
+  <field>CAD</field>
+  <field>date</field>
+</environment>
+
+<environment type="Oracle">
+  <field>USD</field>
+  <field>CAD</field>
+  <field>date</field>
+</environment>
+

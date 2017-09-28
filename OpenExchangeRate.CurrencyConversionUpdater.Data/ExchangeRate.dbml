@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="OpenExchangeRate" Class="ExchangeRateDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=GREECOS_09-PC;Initial Catalog=OpenExchangeRate;User ID=sa" SettingsObjectName="OpenExchangeRate.CurrencyConversionUpdater.Data.Properties.Settings" SettingsPropertyName="OpenExchangeRateConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ExchangeRates" Member="ExchangeRates">
+    <Type Name="ExchangeRate">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="USD" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="CAD" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="date" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Function Name="dbo.ExchangeRate_Delete" Method="ExchangeRate_Delete">
+    <Parameter Name="date" Type="System.DateTime" DbType="DateTime" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.ExchangeRate_Insert" Method="ExchangeRate_Insert">
+    <Parameter Name="Id" Parameter="id" Type="System.Int32" DbType="Int" />
+    <Parameter Name="USD" Parameter="uSD" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="CAD" Parameter="cAD" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="date" Type="System.DateTime" DbType="DateTime" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.ExchangeRate_UPDATE" Method="ExchangeRate_UPDATE">
+    <Parameter Name="Id" Parameter="id" Type="System.Int32" DbType="Int" />
+    <Parameter Name="USD" Parameter="uSD" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="CAD" Parameter="cAD" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="date" Type="System.DateTime" DbType="DateTime" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

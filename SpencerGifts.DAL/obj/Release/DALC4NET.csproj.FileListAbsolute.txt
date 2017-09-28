@@ -1,0 +1,5 @@
+C:\Users\Greecos_09\Desktop\DALC4NETSourceCode\DALC4NET\bin\Release\DALC4NET.dll
+C:\Users\Greecos_09\Desktop\DALC4NETSourceCode\DALC4NET\bin\Release\DALC4NET.pdb
+C:\Users\Greecos_09\Desktop\DALC4NETSourceCode\DALC4NET\obj\Release\DALC4NET.csprojResolveAssemblyReference.cache
+C:\Users\Greecos_09\Desktop\DALC4NETSourceCode\DALC4NET\obj\Release\DALC4NET.dll
+C:\Users\Greecos_09\Desktop\DALC4NETSourceCode\DALC4NET\obj\Release\DALC4NET.pdb

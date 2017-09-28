@@ -1,0 +1,13 @@
+C:\Users\Greecos_09\documents\visual studio 2012\Projects\SpencerGifts.Scene7ImageUpdater\SpencerGifts.Scene7ImageUpdater.Data\bin\Debug\SpencerGifts.Scene7ImageUpdater.Data.dll
+C:\Users\Greecos_09\documents\visual studio 2012\Projects\SpencerGifts.Scene7ImageUpdater\SpencerGifts.Scene7ImageUpdater.Data\bin\Debug\SpencerGifts.Scene7ImageUpdater.Data.pdb
+C:\Users\Greecos_09\documents\visual studio 2012\Projects\SpencerGifts.Scene7ImageUpdater\SpencerGifts.Scene7ImageUpdater.Data\obj\Debug\SpencerGifts.Scene7ImageUpdater.Data.dll
+C:\Users\Greecos_09\documents\visual studio 2012\Projects\SpencerGifts.Scene7ImageUpdater\SpencerGifts.Scene7ImageUpdater.Data\obj\Debug\SpencerGifts.Scene7ImageUpdater.Data.pdb
+C:\Users\Greecos_09\Documents\Visual Studio 2012\Projects\SpencerGifts.Scene7ImageUpdater\SpencerGifts.Scene7ImageUpdater\SpencerGifts.Scene7ImageUpdater.Data\bin\Debug\SpencerGifts.Scene7ImageUpdater.Data.dll
+C:\Users\Greecos_09\Documents\Visual Studio 2012\Projects\SpencerGifts.Scene7ImageUpdater\SpencerGifts.Scene7ImageUpdater\SpencerGifts.Scene7ImageUpdater.Data\bin\Debug\SpencerGifts.Scene7ImageUpdater.Data.pdb
+C:\Users\Greecos_09\Documents\Visual Studio 2012\Projects\SpencerGifts.Scene7ImageUpdater\SpencerGifts.Scene7ImageUpdater\SpencerGifts.Scene7ImageUpdater.Data\obj\Debug\SpencerGifts.Scene7ImageUpdater.Data.dll
+C:\Users\Greecos_09\Documents\Visual Studio 2012\Projects\SpencerGifts.Scene7ImageUpdater\SpencerGifts.Scene7ImageUpdater\SpencerGifts.Scene7ImageUpdater.Data\obj\Debug\SpencerGifts.Scene7ImageUpdater.Data.pdb
+C:\Users\Gray\Desktop\SpencerGifts.Scene7ImageUpdater\SpencerGifts.Scene7ImageUpdater\SpencerGifts.Scene7ImageUpdater.Data\bin\Debug\SpencerGifts.Scene7ImageUpdater.Data.dll.config
+C:\Users\Gray\Desktop\SpencerGifts.Scene7ImageUpdater\SpencerGifts.Scene7ImageUpdater\SpencerGifts.Scene7ImageUpdater.Data\bin\Debug\SpencerGifts.Scene7ImageUpdater.Data.dll
+C:\Users\Gray\Desktop\SpencerGifts.Scene7ImageUpdater\SpencerGifts.Scene7ImageUpdater\SpencerGifts.Scene7ImageUpdater.Data\bin\Debug\SpencerGifts.Scene7ImageUpdater.Data.pdb
+C:\Users\Gray\Desktop\SpencerGifts.Scene7ImageUpdater\SpencerGifts.Scene7ImageUpdater\SpencerGifts.Scene7ImageUpdater.Data\obj\Debug\SpencerGifts.Scene7ImageUpdater.Data.dll
+C:\Users\Gray\Desktop\SpencerGifts.Scene7ImageUpdater\SpencerGifts.Scene7ImageUpdater\SpencerGifts.Scene7ImageUpdater.Data\obj\Debug\SpencerGifts.Scene7ImageUpdater.Data.pdb

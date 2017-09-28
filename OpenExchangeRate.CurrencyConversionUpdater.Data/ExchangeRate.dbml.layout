@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ExchangeRate">
+  <DataContextMoniker Name="/ExchangeRateDataContext" />
+  <nestedChildShapes>
+    <classShape Id="8558235e-06a6-48a7-b2bb-c3c5990247fa" absoluteBounds="2.75, 2.125, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/ExchangeRateDataContext/ExchangeRate" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7e0df5c3-1aa6-4bef-9c24-d21dc21d3b2e" absoluteBounds="2.765, 2.585, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

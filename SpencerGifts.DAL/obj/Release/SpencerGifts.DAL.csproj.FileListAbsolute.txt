@@ -1,0 +1,5 @@
+C:\Users\Greecos_09\Desktop\DALC4NETSourceCode\DALC4NET\obj\Release\SpencerGifts.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Greecos_09\Desktop\DALC4NETSourceCode\DALC4NET\bin\Release\SpencerGifts.DAL.dll
+C:\Users\Greecos_09\Desktop\DALC4NETSourceCode\DALC4NET\bin\Release\SpencerGifts.DAL.pdb
+C:\Users\Greecos_09\Desktop\DALC4NETSourceCode\DALC4NET\obj\Release\SpencerGifts.DAL.dll
+C:\Users\Greecos_09\Desktop\DALC4NETSourceCode\DALC4NET\obj\Release\SpencerGifts.DAL.pdb
